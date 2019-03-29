@@ -11,7 +11,7 @@
 }
 
 .parallax{
-	background-image: url("file:///C:/Users/Rajat/Websites/Conquer/Conquer_remake/img/bg-1.jpg");
+	background-image: url("../img/bg-1.jpg");
 	height:600px;
 	background-repeat: no-repeat;
 	background-size: cover;
